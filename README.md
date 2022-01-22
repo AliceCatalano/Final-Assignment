@@ -1,4 +1,4 @@
-# Final-Assignment
+Final-Assignment
 ================================
 
 Final assignment of the Research Track 1 course. It's a Puthon code to controll the movement of a robot inside a the given map which resembles a box with rooms. The user must choose a modality of control of the robot:
