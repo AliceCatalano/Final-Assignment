@@ -51,9 +51,9 @@ The teleop_twist_keyboard topic is used.
 
 `manage_input(request)` : function called by both choice 2 and 3 but if mode 3 is choosen here the launcher for that specific mode is called.
     
-    `request.input_case == 1` : call keyboard teleop and the choice2.launch is launched.
+   * `request.input_case == 1` : call keyboard teleop and the choice2.launch is launched.
     
-    `request.input_case == 2` : call keyboard teleop and the osbstacle avoidance and choice3.launch is launched.
+   * `request.input_case == 2` : call keyboard teleop and the osbstacle avoidance and choice3.launch is launched.
 
 `input_key_server()` : initializes the node and calls the service handler
 
