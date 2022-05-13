@@ -57,3 +57,6 @@ The teleop_twist_keyboard topic is used.
 
 `input_key_server()` : initializes the node and calls the service handler
 
+Documentation
+--------------
+The Sphinx documentation for the whole code is available at the following link [Final_assignment_documentation](https://alicecatalano.github.io/Reasearcch-Track-1-Final-Assignment/)
